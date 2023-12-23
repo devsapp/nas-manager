@@ -40,8 +40,8 @@
 
 | 服务 |  备注  |
 | --- |  --- |
-| 函数计算 FC |  对 AIGC 进行 CPU/GPU 推理计算 |
-| 文件存储 NAS |  存储大语言模型以及Embedding服务所需要的模型, 新用户请先领取免费试用资源包https://free.aliyun.com/?product=9657388&crowd=personal |
+| 函数计算 FC |   |
+| 文件存储 NAS |   |
 
 </service>
 
